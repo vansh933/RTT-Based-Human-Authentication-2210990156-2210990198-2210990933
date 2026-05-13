@@ -1,0 +1,14 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "auc_roc": 1.0,
+  "fdr": 0.0,
+  "ufi": 0.2702,
+  "fp_count": 0,
+  "tp_count": 150,
+  "threshold": 0.65,
+  "n_human": 150,
+  "n_ai": 96
+}
