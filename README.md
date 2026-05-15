@@ -11,7 +11,7 @@ Research Project
 | Roll No | Name |
 |---------|------|
 | 2210990156   | Arjun Sen |
-| 2210990156   | Avikam Bir |
+| 2210990198  | Avikam Bir |
 | 2210990933   | Vansh Alawadhi |
 
 
